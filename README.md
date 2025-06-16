@@ -10,7 +10,7 @@ Watch the full tutorial on YouTube:
 
 Subscribe to the channel for more Flutter tutorials:
 
-[Manoj Kulkarni](https://www.youtube.com/@ManojKulkarni30)
+[Manoj Kulkarni](https://www.youtube.com/c/ManojKulkarni30?sub_confirmation=1)
 
 ## Getting Started
 
